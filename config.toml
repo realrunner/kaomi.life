@@ -1,0 +1,20 @@
+baseURL = "https://kaomi.life/"
+languageCode = "en-us"
+title = "Kaomi Life"
+theme = "beautifulhugo"
+disqusShortname = "kaomi-life"
+
+
+[Params]
+    subtitle = "Build a beautiful and simple website in minutes"
+    logo = "bee_512.png"
+    favicon = "img/favicon.ico"
+    dateFormat = "January 2, 2006"
+    comments = true
+    commit = false
+    rss = true
+    readingTime = true
+    useHLJS = true
+
+[Author]
+    name = "Ashley Nelson"

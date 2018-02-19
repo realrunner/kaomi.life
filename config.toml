@@ -6,7 +6,7 @@ disqusShortname = "kaomi-life"
 
 
 [Params]
-    subtitle = "Build a beautiful and simple website in minutes"
+#    subtitle = "Build a beautiful and simple website in minutes"
     logo = "bee_512.png"
     favicon = "img/favicon.ico"
     dateFormat = "January 2, 2006"
@@ -18,3 +18,9 @@ disqusShortname = "kaomi-life"
 
 [Author]
     name = "Ashley Nelson"
+
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1

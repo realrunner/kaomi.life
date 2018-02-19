@@ -8,7 +8,7 @@ disqusShortname = "kaomi-life"
 [Params]
 #    subtitle = "Build a beautiful and simple website in minutes"
     logo = "bee_512.png"
-    favicon = "img/favicon.ico"
+    favicon = "favicon.ico"
     dateFormat = "January 2, 2006"
     comments = true
     commit = false

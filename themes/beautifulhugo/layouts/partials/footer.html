@@ -33,9 +33,9 @@
         <p class="credits copyright text-muted">
           {{ if .Site.Author.name }}
             {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+              &copy; <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
             {{ else }}
-              {{ .Site.Author.name }}
+              &copy; {{ .Site.Author.name }}
             {{ end }}
           {{ end }}
 

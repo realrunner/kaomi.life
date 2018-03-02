@@ -1,5 +1,5 @@
 ---
-title: "The Power of Food"
+title: "The Power and Joy of Food"
 date: 2018-02-18T16:17:03-07:00
 draft: false
 ---
@@ -78,3 +78,6 @@ There is much joy and wonder in food. It is a gift from God.  He didn't create s
 _"Most people don’t want to learn to garden or hunt. But we can change the way we make and get our food so that it becomes food again—something that feeds our bodies and our souls. Imagine it: Every meal would connect us to the joy of living and the wonder of nature. Every meal would be like saying grace.”_
 
 I would love if that quote could become reality once again.  If as a society we could rediscover the joy and importance of food, honor our bodies by properly nourishing them and have gratitude for the abundance God has given us.
+
+
+#### By Ashley Nelson

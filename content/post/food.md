@@ -30,6 +30,12 @@ https://healthymeaningfulliving.com/2018/01/21/indulgent-suffering/
 
 Life really isn't segmented into health, spirituality, social, etc every piece is part of a great whole. Striving and improving are different than suffering. We shouldn't suffer in our diets. We should enjoy them. Satisfaction is a big factor in health.
 
+In Brining Up Bebe the author Pamela Druckerman says:
+
+_“[French] Parents see it as their job to bring the child around to appreciating this [food]. They believe that just as they must teach a child how to sleep, how to wait, and how to say bonjour, they must teach her how to eat.”_
+
+I love this attitude.  In American society we have strayed from this.  I often here people say, 'I don't like radishes,' or whatever the food is as if they were hard-wired this way and unable to change.   At our house my kids can say they don't like something as long as they follow it up with a yet.  "I don't like it yet."  They have learned to like many foods that were a battle at first.  I have joy in seeing Livi choose a fresh tomato sprinkled with salt for a snack after years of her disdaining them. I get frustrated when parenting articles suggest that if we expect our children to eat foods they don't like they will develop problems in connection with eating which can lead to obesity and other health and emotional problems. With the wrong approach I can see how this could happen, but some have gone so far that all their kids 'like' to eat is cold cereal, carrot sticks, and apples. The French don't seem to have this fear and teach their young children to eat and appreciate everything from fish, soufflés, leek soup, and mushrooms to croissants and fine chocolate.
+
 On studies done on lifespan, it has been proven over and over that the biggest factor in a long life is relationships.  How meaningfully are we connected to others?  One study states:
 
  _"Exercise and quitting smoking are thought to be important steps for a long, healthy life, but a new study suggests another potential tip for extending lifespan: make some friends._

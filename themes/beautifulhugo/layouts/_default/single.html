@@ -6,6 +6,8 @@
         {{ .Content }}
       </article>
 
+      {{ partial "addthis" . }}
+
       {{ if ne .Type "page" }}
         <ul class="pager blog-pager">
           {{ if .PrevInSection }}

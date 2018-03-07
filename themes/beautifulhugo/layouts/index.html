@@ -31,6 +31,7 @@
                   <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
                 {{ else }}
                   {{ .Content }}
+                  {{ partial "addthis" . }}
                 {{ end }}
               </div>
 

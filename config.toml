@@ -15,6 +15,7 @@ disqusShortname = "kaomi-life"
     rss = true
     readingTime = true
     useHLJS = true
+    addThis = "ra-5a9f5acc20c648d7"
 
 [Author]
     name = "Ashley Nelson"
